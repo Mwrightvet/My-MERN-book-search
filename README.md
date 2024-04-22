@@ -58,7 +58,9 @@ Once the application is running, you can use the search functionality to find bo
 
 ## Demo
 
-[Link to Live Demo](https://youtu.be/GfFzCZ2dh6E)
+[Link to Live Deployed Application](https://my-mern-book-search.onrender.com)
+
+[Link to Recorded](https://youtu.be/GfFzCZ2dh6E)
 
 ![demo-search-books](https://github.com/Mwrightvet/My-MERN-book-search/assets/50971489/9717c7b5-d55d-4136-b4a8-d82e0955d951)
 
