@@ -41,8 +41,6 @@ To install and run this project locally, follow these steps:
    npm run develop to run client and server
    ```
 
-```
-
 5. Open your web browser and navigate to `http://localhost:3000` to view the application.
 
 ## Usage
