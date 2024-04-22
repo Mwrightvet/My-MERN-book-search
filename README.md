@@ -62,7 +62,7 @@ Once the application is running, you can use the search functionality to find bo
 
 [Link to Recorded](https://youtu.be/GfFzCZ2dh6E)
 
-![demo-search-books](https://github.com/Mwrightvet/My-MERN-book-search/assets/50971489/9717c7b5-d55d-4136-b4a8-d82e0955d951)
+![demo-search-books](./assets/demo-search-books.gif)
 
 ## Contributing
 
@@ -78,4 +78,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+```
+
 ```
