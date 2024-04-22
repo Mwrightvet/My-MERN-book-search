@@ -1,0 +1,38 @@
+body {
+  font-family: 'Rubik', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+.small {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.custom-modal {
+  border-radius: 10px;
+}
+
+.custom-modal-header {
+  background-color: #f8d7da; /* Red background color */
+  color: #721c24; /* Dark red text color */
+}
+
+.custom-modal-body {
+  color: #155724; /* Green text color */
+}
+.custom-modal-button{
+  background-color: #10b981; /* Red background color */
+  color: white; 
+}
+.custom-modal-button:hover{
+  background-color: #059669; /* Red background color */
+  color: white; 
+}
